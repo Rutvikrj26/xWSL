@@ -1,6 +1,6 @@
 # [xWSL.cmd (Version 1.4 / 20210601)](https://github.com/DesktopECHO/xWSL)
 
-Script to NetInstall **Ubuntu 20.04**, **xRDP**, and **XFCE 4.16** on WSL (Version 1 or 2).  
+Script to NetInstall **Ubuntu 16.04**, **xRDP**, and **XFCE 4.16** on WSL (Version 1 or 2).  
 Other distributions are available - See **KDE Neon** [**(kWSL)**](https://github.com/DesktopECHO/kWSL) and **Kali Linux** [**(Kali-xRDP)**](https://github.com/DesktopECHO/Kali-xRDP) for details.
 
 * Improved desktop experience, performance improvements in many areas
